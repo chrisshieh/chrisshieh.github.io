@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Another Angle 換個角度</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Another Angle 換個角度</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#about">關於我們</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#service">我們的服務</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">聯絡方式</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header class="masthead">
+      <div class="overlay">
+        <div class="container">
+          <h1 class="text-white">家庭的幸福與健康就從全家人一起回家吃晚餐開始!</h1>
+		  <br><br>
+		  <h4 class="text-white">
+		  10/27(五)將盛大開幕！開幕當晚將舉辦品味開幕茶會，由掌廚20年經驗的主廚Alice老師進行實做料理與大家交交朋友，當晚所有料理與茶點皆免費供應，歡迎所有的親朋好友一起來遊玩，共襄盛舉！
+		  </h4>
+        </div>
+      </div>
+    </header>
+
+    <section id = "about">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-6 order-2">
+            <div class="p-5">
+              <img class="img-fluid rounded-circle" src="./css/aa-logo.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-md-6 order-1">
+            <div class="p-5">
+              <h2 class="display-4">關於我們...</h2>
+              <p>換個角度有限公司，以提升生活品質為目標，提供食衣住行全方位的質感服務，由「食」下手，讓您的幸福生活從回家吃飯開始；名師主廚使用精選食材教學，詳盡的解說料理與廚房小知識，讓烹調的藝術躍上廚房，學的開心也吃的安心！
+
+另外，我們也為各位嚴選各國獨有的健康食品以及許多獨特的商品，每樣產品皆親自把關，堅持拿出最好的品質給消費者，換個角度生活讓藝術伴隨你的廚藝，悄悄地爬上你的餐桌。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="service">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <div class="p-5">
+              <img class="img-fluid rounded-circle" src="./css/aahouse-inside.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="p-5">
+              <h2 class="display-4">我們的服務</h2>
+              <p>在這繁忙快步調的都會生活中，取一片寧靜，踏入這藝術空間，卸下包袱，換個角度，品味生活，感受這恰如其分的質感。
+
+				這，就是換個角度有限公司。
+
+</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-6 order-2">
+            <div class="p-5">
+              <img class="img-fluid rounded-circle" src="./css/aahouse.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-md-6 order-1">
+            <div class="p-5">
+              <h2 class="display-4">聯絡方式</h2>
+              <p>
+			  地址: 台北市內湖區民權東路六段125-1號<br>
+			  電話: (02)2792-9199
+			  </p>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.966805777356!2d121.59086911478815!3d25.069114183956025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ac84c433c63f%3A0xecc92aebc15ed5ad!2zMTE05Y-w5YyX5biC5YWn5rmW5Y2A5rCR5qyK5p2x6Lev5YWt5q61MTI16Jmf!5e0!3m2!1szh-TW!2stw!4v1508405977706" width="300" height="225" frameborder="0" style="border:0" allowfullscreen></iframe>
+    		  
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+	<!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Another Angle 2017</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  </body>
+
+</html>
